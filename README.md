@@ -32,7 +32,7 @@ If you are installing this plugin from a branch in this Git repository, you must
 ## Installation
 
 ```shell
-pip install git+https://github.com/cleura/tutor-contrib-s3@v2.5.0
+pip install git+https://github.com/cleura/tutor-contrib-s3@v2.6.0
 ```
 
 Then, to enable this plugin, run:

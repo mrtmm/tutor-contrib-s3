@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## Version 2.6.0 (2026-09-11)
 
 * [Fix] Define the `STORAGE_CLASS` for `VIDEO_TRANSCRIPTS_SETTINGS`.
 * [Testing] Set skip_missing_interpreters = true for tox, so that it runs with whatever Python is available.
